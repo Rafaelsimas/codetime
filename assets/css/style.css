@@ -74,10 +74,10 @@ h1 img {
     color: var(--destaque-hover-color);
 }
 /* ==========================HERO====================== */
-.hero{
-    margin-top: calc(155px + 93px);
+.hero {
+    margin-top: calc(77px + 93px);
     width: 100%;
-    /*    background-color: var(--destaque-color); */
+    /* background-color: var(--destaque-color); */
     text-align: center;
     padding: 8px;
 }
