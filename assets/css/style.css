@@ -282,8 +282,9 @@ span {
     padding: 20px;
     color: var(--menu-itens-color);
     font-weight: bold;
-    width: 100%;
+    width: 94%;
     border-radius: 8px;
+    border: none;
   }
 
   /* ===================SOBRE================= */
@@ -361,6 +362,7 @@ span {
     width: 83%;
     left: 8px;
     height: 48%;
+    max-height: 280px;
     position: absolute;
     border-radius: 9px;
     margin-top: 19px;
@@ -371,3 +373,4 @@ span {
     margin-bottom: 32px;
 }
 }
+
