@@ -443,6 +443,20 @@ backdrop-filter: blur( 13.5px );
     margin-bottom: 30px;
     line-height: 30px;
   }
+
+  .box-do-pagamento{
+    margin-top: 10%;
+    margin-inline: auto;
+    width: 70%;
+  }
+
+  .enquanto-estuda, .enquanto-trabalha{
+    background: rgba(128, 0, 128, 0.363);
+    display: flex;
+    justify-content: space-between;
+    padding: 18px;
+    margin-bottom: 30px;
+  }
   /* =====================FOOTER=================== */
   #footer{
     width: 100%;
