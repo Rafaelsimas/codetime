@@ -444,11 +444,11 @@ backdrop-filter: blur( 13.5px );
     line-height: 30px;
   }
 
-  .box-do-pagamento{
+  .box-do-pagamento {
     margin-top: 10%;
     margin-inline: auto;
-    width: 70%;
-  }
+    width: 100%;
+}
 
   .enquanto-estuda, .enquanto-trabalha{
     background: rgba(128, 0, 128, 0.363);
