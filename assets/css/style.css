@@ -23,6 +23,10 @@ body {
   color: white;
 }
 
+.estude{
+  color: white;
+}
+
 /* ====================== classes especiais do menu =-=========================*/
 .activo {
   border: 1px solid rgba(211, 211, 211, 0.24);
@@ -444,11 +448,11 @@ backdrop-filter: blur( 13.5px );
     line-height: 30px;
   }
 
-  .box-do-pagamento {
+  .box-do-pagamento{
     margin-top: 10%;
     margin-inline: auto;
-    width: 100%;
-}
+    width: 70%;
+  }
 
   .enquanto-estuda, .enquanto-trabalha{
     background: rgba(128, 0, 128, 0.363);
