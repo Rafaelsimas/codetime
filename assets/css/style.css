@@ -336,8 +336,8 @@ span {
 
 /* =====================HABILIDADES=================== */
 .direita img {
-    position: relative;
-    width: 100%;
+  position: relative;
+  width: 100%;
     border-radius: 9px;
   }
 
@@ -345,7 +345,7 @@ span {
     /* background-color: red; */
     width: 95%;
     text-align: center;
-}
+  }
   .direita {
     /* background-color: red; */
     width: 95%;
@@ -356,7 +356,7 @@ span {
     width: 100%;
     border-radius: 9px;
   }
-
+  
   .fundo {
     background: var(--destaque-color);
     width: 83%;
@@ -374,3 +374,42 @@ span {
 }
 }
 
+
+  /* =====================VALOR=================== */
+  #valor{
+    width: 100%;
+    background: rgba(27, 27, 27, 0.295);
+    text-align: center;
+    padding: 18px;
+  }
+  
+  .box-valor{
+    margin-bottom: 30px;
+    line-height: 30px;
+  }
+  /* =====================FOOTER=================== */
+  #footer{
+    width: 100%;
+    text-align: center;
+    padding: 18px;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid rgba(173, 216, 230, 0.192);
+  background: rgba(64, 9, 151, 0.35);
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 13.5px );
+  -webkit-backdrop-filter: blur( 13.5px );
+  }
+  
+  .box-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 85%;
+  }
+
+  .logo-footer img{
+    width: 250px;
+  }
+
+  .con
